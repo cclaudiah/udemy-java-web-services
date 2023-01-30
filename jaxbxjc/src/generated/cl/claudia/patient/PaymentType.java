@@ -6,7 +6,7 @@
 //
 
 
-package com.bharatthippireddy.patient;
+package cl.claudia.patient;
 
 import java.io.Serializable;
 import javax.xml.bind.annotation.XmlAccessType;

@@ -6,7 +6,7 @@
 //
 
 
-package com.bharatthippireddy.patient;
+package cl.claudia.patient;
 
 import javax.xml.bind.annotation.XmlEnum;
 import javax.xml.bind.annotation.XmlType;

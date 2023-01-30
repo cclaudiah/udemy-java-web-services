@@ -6,4 +6,4 @@
 //
 
 @javax.xml.bind.annotation.XmlSchema(namespace = "http://www.bharatthippireddy.com/Patient", elementFormDefault = javax.xml.bind.annotation.XmlNsForm.QUALIFIED)
-package com.bharatthippireddy.patient;
+package cl.claudia.patient;
