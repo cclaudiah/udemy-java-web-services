@@ -41,7 +41,7 @@ public class CustomerOrdersWsImpl implements CustomerOrdersPortType {
 		
 		orders.add(order);
 		
-		customerOrders.put(BigInteger.valueOf(currentId++), orders);	
+		customerOrders.put(BigInteger.valueOf(++currentId), orders);	
 	}
 	
 	@Override
